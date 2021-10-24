@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Neurologia",
+    "description": "Hirudoterapia przyspiesza regenerację uszkodzonych nerwów obwodowych po urazach i wypadkach komunikacyjnych lub po przebytym zapaleniu, np. w przypadku porażenia nerwu twarzowego. Można z powodzeniem stosować ją przy dyskopatiach, zespole ogona końskiego i urazach rdzenia kręgowego, a także mielopatii. Pomocne jest również wykorzystanie pijawek w leczeniu chorób neurodegeneracyjnych.",
+    "image": "images/features/neurology.svg"
+  },
+  {
+    "title": "Ortopedia",
+    "description": "Hirudoterapia przyspiesza regenerację uszkodzonych mięśni, ścięgien i więzadeł (naderwania, skręcenia, ugryzienia), stymuluje wzrost kostny po złamaniach lub zespoleniach. Terapia pijawką lekarską redukuje reakcję alergiczną na nici chirurgiczne, przyspiesza resorpcję obrzęków, gojenie się ran, działa antyseptycznie. Zapobiega postępowi osteochondrozy i dysplazji oraz chorobie zwyrodnieniowej.",
+    "image": "images/features/orthopedics.svg"
+  },
+  {
+    "title": "Gastrologia",
+    "description": "Hirudoterapia znajduje szerokie zastosowanie w terapii chorób układu pokarmowego. Działa wspomagająco przy chorobach zapalnych, pomaga w kontrolowaniu zaburzeń przemiany materii oraz przyspiesza regenerację wątroby (np. po zatruciach czy długotrwałej farmakoterapii).",
+    "image": "images/features/gastro.svg"
+  },
+  {
+    "title": "Dermatologia",
+    "description": "Hirudoterapia stosowana jest w leczeniu: skórnych przejawów chorób naczyniowych, np. zapaleniu naczyń obwodowych, chorób autoimmunologicznych, jak toczeń i pemfygoid w szerokim spektrum grzybiczych, pasożytniczych i alergicznych zapaleń skóry. ",
+    "image": "images/features/dermathology.svg"
+  }
+]
